@@ -1,0 +1,17 @@
+# Core WordPress
+wp-admin/
+wp-includes/
+
+# Uploads 
+wp-content/uploads/
+
+# Config riêng mỗi máy
+wp-config.php
+
+# Cache
+wp-content/cache/
+wp-content/upgrade/
+
+# OS files
+.DS_Store
+Thumbs.db
